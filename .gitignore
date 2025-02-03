@@ -1,6 +1,5 @@
-multimodal_RAG.ipynb
-multimodal-rag-main
 venv
 .env
-hello.ipynb
+test.ipynb
 fashion_dataset
+load_dataset.py
